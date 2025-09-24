@@ -30,4 +30,6 @@ For more information on HCI, visit [Interaction Design Foundation](https://githu
 ---
 ## Quote for Thought
 > *"The best interface is no interface."*
+
 > -Golden Krishna
+
