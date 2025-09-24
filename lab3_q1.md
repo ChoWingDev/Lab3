@@ -5,11 +5,13 @@
 
 ## Key Areas in HCI
 
-- [x] **User Interface (UI) Design**
-- [x] **Usability Testing**
-- [x] **Interaction Design**
-- [x] **User Experience (UX) Research**
-- [x] **Accessibility and Inclusive Design**
+  - [x] **User Interface (UI) Design**
+  - [x] **Usability Testing**
+  - [x] **Interaction Design**
+  - [x] **User Experience (UX) Research**
+  - [x] **Accessibility and Inclusive Design**
+
+---
 
 ### Core Concepts in HCI
 1. **User-Centered Design (UCD) :** design process that focuses on the needs, preferences, and limitations of the end user.  
@@ -24,12 +26,14 @@
 | Usability Testing | Assess the ease of use for users | Running test sessions with participants|
 | A/B Testing | Compare two versions of a design to see which performs better | Running test sessions with participants |
 
+---
+
 ## Key Resource Links
 For more information on HCI, visit [Interaction Design Foundation](https://github.com/ubco-mds-2025/data_541/blob/main/labs/lab3/question1.png).
+
+---
 
 ## Quote for Thought
 > *"The best interface is no interface."*
 
 > -Golden Krishna
-
-
