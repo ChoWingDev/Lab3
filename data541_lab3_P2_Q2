@@ -1,0 +1,5 @@
+git checkout main
+git merge Markdown
+git push
+git push origin --delete Markdown
+git log --oneline

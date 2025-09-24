@@ -1,0 +1,8 @@
+git clone https://github.com/ChoWingDev/Lab3.git
+cd Lab-3
+git branch Markdown
+git checkout Markdown
+git status
+git add lab3_q1.md lab3_q2.md
+git commit -m "Add lab3_q1.md and lab3_q2.md"
+git push -u origin Markdown
