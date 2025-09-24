@@ -23,13 +23,11 @@
 | Wireframing | Create a basic layout of an interface | Sketching out a mobile app design |
 | Usability Testing | Assess the ease of use for users | Running test sessions with participants|
 | A/B Testing | Compare two versions of a design to see which performs better | Running test sessions with participants |
-
+---
 ## Key Resource Links
 For more information on HCI, visit [Interaction Design Foundation](https://github.com/ubco-mds-2025/data_541/blob/main/labs/lab3/question1.png).
 
 ---
 ## Quote for Thought
 > *"The best interface is no interface."*
-
 > -Golden Krishna
-
