@@ -1,5 +1,5 @@
 # Introduction to Human-computer Interaction (HCI)
----
+
 **Human-Computer Interaction (HCI)** is a field of study that focuses on the design and use of computer technology, particularly the interactions between humans (users) and computers. HCI combines elements of **computer science, cognitive psychology,** and **design** to create interfaces that are intuitive and user-friendly.
 
 
@@ -15,7 +15,7 @@
 1. **User-Centered Design (UCD) :** design process that focuses on the needs, preferences, and limitations of the end user.  
 2. **Prototyping and Iteration:** Building early models (prototypes) and refining them based on user feedback.
 3. **Usability Metrics:** Evaluating how effectively and efficiently users can achieve their goals using an interface.  
----
+
 ## Common Techniques in HCI
 
 | Directive | Purpose | Example|
@@ -27,7 +27,7 @@
 ## Key Resource Links
 For more information on HCI, visit [Interaction Design Foundation](https://github.com/ubco-mds-2025/data_541/blob/main/labs/lab3/question1.png).
 
----
 ## Quote for Thought
 > *"The best interface is no interface."*
+
 > -Golden Krishna
